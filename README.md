@@ -1,1 +1,3 @@
 # MateAcademy
+
+print("Hello world!")
